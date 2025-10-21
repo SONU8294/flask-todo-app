@@ -3,5 +3,10 @@
         "id": 1,
         "itemName": "Sample Task",
         "itemDescription": "This is a default example."
+    },
+    {
+        "id": 2,
+        "itemName": "New Task",
+        "itemDescription": "This task was added in SONU8294_new branch."
     }
 ]
